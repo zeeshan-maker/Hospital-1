@@ -1,0 +1,79 @@
+@media (max-width:991px){
+    /* doctor  */
+    #doctors .card{
+        width: 60%;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+  
+}
+@media (max-width:767px){
+    h3{
+        font-weight: 600;
+        font-size: 24px;
+    }
+   
+    
+}
+@media (max-width:575px){
+    /* common css  */
+    h1{
+        font-size: 38px;
+        font-weight: 700;
+        letter-spacing: 6px;
+        
+    }
+    /* banner  */
+    .wrapper .card{
+        width: 80% !important;
+        margin: auto;
+        margin-bottom: 10px;
+        
+    }
+
+    /* service  */
+    .service .card{
+       width: 80% !important;
+       margin: auto;
+       margin-bottom: 10px;
+       
+      
+    }
+    /* doctor  */
+    #doctors .card{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    
+}
+@media (max-width:360px){
+    /* common css  */
+    h1{
+        font-size: 30px;
+        font-weight: 700;
+        
+    }
+    /* banner  */
+    .wrapper .card{
+        width: 100% !important;
+        margin-bottom: 10px;
+        
+    }
+     /* service  */
+     .service .card{
+        width: 100% !important;
+        margin-bottom: 10px;
+        
+       
+     }
+     /* doctor  */
+     #doctors .card{
+        padding: 1rem 2rem;
+       
+    }
+    
+   
+    
+    
+}
